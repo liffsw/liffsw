@@ -43,6 +43,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/liffsw/liffsw/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+###
+
 ## 👨‍💻 Sobre mim
 
 Atualmente sou estudante de Engenharia de Software e estou buscando conhecer mais sobre não apenas a programação, mas toda a idealização do projeto que é criada antes de partir para a linha de código.
