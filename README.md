@@ -60,7 +60,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liffsw&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liffsw&layout=compact&langs_count=5&theme=dracula" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ###
