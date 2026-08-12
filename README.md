@@ -57,13 +57,7 @@
 
 <h3 data-importer="text" align="left"></h3>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liffsw&layout=compact&langs_count=5&theme=dracula" height="150" alt="Linguagens mais usadas" />
-</div>
-
-###
 ## 🚀 Projetos
 
 Estou utilizando meus projetos para colocar em prática os conceitos que estou aprendendo.
